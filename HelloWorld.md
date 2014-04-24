@@ -1,2 +1,1 @@
-## This is a markdown file 
-Wait... what???
+## This is a markdown file
